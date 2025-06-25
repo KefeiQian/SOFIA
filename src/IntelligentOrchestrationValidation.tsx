@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 
 // --- SVG Icon Components for Details ---
 const KnowledgeIcon = () => <path d="M9 21a9 9 0 100-18 9 9 0 000 18zM9 4a1 1 0 011 1v5a1 1 0 11-2 0V5a1 1 0 011-1zM9 12a1 1 0 00-1 1v5a1 1 0 102 0v-5a1 1 0 00-1-1z" />;
