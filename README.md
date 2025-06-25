@@ -1,6 +1,6 @@
 # SOFIA Platform - AI-Driven Cloud Buildout System
 
-🚀 **Live Demo**: [https://YOUR_USERNAME.github.io/SOFIA/](https://YOUR_USERNAME.github.io/SOFIA/)
+🚀 **Live Demo**: [https://kefeiqian.github.io/SOFIA/](https://kefeiqian.github.io/SOFIA/)
 
 SOFIA (AI-Driven Cloud Buildout System) is a comprehensive platform designed to revolutionize sovereign cloud infrastructure deployment and management through intelligent automation and AI-powered orchestration.
 
