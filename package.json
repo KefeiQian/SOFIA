@@ -2,7 +2,7 @@
   "name": "sofia-platform",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_USERNAME.github.io/SOFIA",
+  "homepage": "https://kefeiqian.github.io/SOFIA",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
