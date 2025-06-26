@@ -80,6 +80,8 @@ export default function App() {
     { x1: nodes.user.x + nodes.user.width/2 - 80, y1: nodes.user.y + nodes.user.height, x2: nodes.codeGen.x + nodes.codeGen.width/2, y2: nodes.codeGen.y },
     // User to Deploy
     { x1: nodes.user.x + nodes.user.width/2 + 80, y1: nodes.user.y + nodes.user.height, x2: nodes.deploy.x + nodes.deploy.width/2, y2: nodes.deploy.y },
+    // User to Knowledge Hub (direct connection)
+    { x1: nodes.user.x + nodes.user.width/2, y1: nodes.user.y + nodes.user.height, x2: nodes.knowledge.x + nodes.knowledge.width/2, y2: nodes.knowledge.y },
     // Config Gen to Knowledge
     { x1: nodes.codeGen.x + nodes.codeGen.width/2, y1: nodes.codeGen.y + nodes.codeGen.height, x2: nodes.knowledge.x + 150, y2: nodes.knowledge.y },
     // Deploy to Knowledge
