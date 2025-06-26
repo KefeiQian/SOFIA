@@ -1,206 +1,328 @@
-# SOFIA Platform - AI-Driven Cloud Buildout System
+<!--=========================README TEMPLATE INSTRUCTIONS=============================
+======================================================================================
 
-🚀 **Live Demo**: [https://kefeiqian.github.io/SOFIA/](https://kefeiqian.github.io/SOFIA/)
+- THIS README TEMPLATE LARGELY CONSISTS OF COMMENTED OUT TEXT. THIS UNRENDERED TEXT IS MEANT TO BE LEFT IN AS A GUIDE 
+  THROUGHOUT THE REPOSITORY'S LIFE WHILE END USERS ONLY SEE THE RENDERED PAGE CONTENT. 
+- Any italicized text rendered in the initial template is intended to be replaced IMMEDIATELY upon repository creation.
 
-SOFIA (AI-Driven Cloud Buildout System) is a comprehensive platform designed to revolutionize sovereign cloud infrastructure deployment and management through intelligent automation and AI-powered orchestration.
+- This template is default but not mandatory. It was designed to compensate for typical gaps in Microsoft READMEs 
+  that slow the pace of work. You may delete it if you have a fully populated README to replace it with.
 
-## 🏗️ Platform Overview
+- Most README sections below are commented out as they are not known early in a repository's life. Others are commented 
+  out as they do not apply to every repository. If a section will be appropriate later but not known now, consider 
+  leaving it in commented out and adding an issue as a reminder.
+- There are additional optional README sections in the external instruction link below. These include; "citation",  
+  "built with", "acknowledgments", "folder structure", etc.
+- You can easily find the places to add content that will be rendered to the end user by searching 
+within the file for "TODO".
 
-The SOFIA platform consists of four core modules that work together to deliver unprecedented automation capabilities:
 
-### 🧠 **Smart Knowledge Hub**
-- RAG-powered intelligence and semantic search
-- Comprehensive knowledge management and analysis
-- Integration with VSCode, GitHub Copilot, and AI services
-- Advanced processing pipeline with vector databases
 
-### ⚡ **Intelligent Code Generation**
-- SovConfigAssistant AI tool with 100+ automated pull requests
-- LLM-powered code analysis and generation
-- Multi-format support (C#, INI, JSON, OMAP/SAP)
-- Automated workflow integration
+- ADDITIONAL EXTERNAL TEMPLATE INSTRUCTIONS:
+  -  https://aka.ms/StartRight/README-Template/Instructions
 
-### 🔄 **Intelligent Orchestration & Validation**
-- Zero-touch deployment workflows
-- Self-healing systems and AI-driven decision making
-- Proactive monitoring and autonomous incident management
-- Comprehensive workflow orchestration
+======================================================================================
+====================================================================================-->
 
-### 🏗️ **SOFIA Core Platform**
-- Integrated module ecosystem
-- Centralized coordination and management
-- Cross-module intelligence and optimization
 
-## 🚀 Features
+<!---------------------[  Description  ]------------------<recommended> section below------------------>
 
-- **Interactive Architecture Diagrams**: Navigate through detailed system architecture visualizations
-- **Comprehensive Documentation**: In-depth guides and documentation for each module
-- **Modern UI**: Clean, responsive interface built with React and TailwindCSS
-- **AI-Powered Intelligence**: Advanced AI capabilities across all platform modules
+# SOFIA
 
-## 🛠️ Technology Stack
+<!-- 
+INSTRUCTIONS:
+- Write description paragraph(s) that can stand alone. Remember 1st paragraph may be consumed by aggregators to improve 
+  search experience.
+- You description should allow any reader to figure out:
+    1. What it does?
+    2. Why was it was created?
+    3. Who created?
+    4. What is it's maturity?
+    5. What is the larger context?
+- Write for a reasonable person with zero context regarding your product, org, and team. The person may be evaluating if 
+this is something they can use.
 
-- **Frontend**: React 19, TypeScript, TailwindCSS
-- **Build System**: Create React App
-- **Deployment**: GitHub Pages with automated CI/CD
-- **AI Integration**: Large Language Models, Vector Databases, RAG Architecture
+How to Evaluate & Examples: 
+  - https://aka.ms/StartRight/README-Template/Instructions#description
+-->
 
-## 📱 Getting Started
+Sovereign Federation Intelligent Assistant
 
+-----------------------------------------------------------------
+<!-----------------------[  License  ]----------------------<optional> section below--------------------->
+
+<!-- 
+## License 
+--> 
+
+<!-- 
+INSTRUCTIONS:
+- Licensing is mostly irrelevant within the company for purely internal code. Use this section to prevent potential 
+  confusion around:
+  - Open source in internal code repository.
+  - Multiple licensed code in same repository. 
+  - Internal fork of public open source code.
+
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#license
+-->
+
+<!---- [TODO]  CONTENT GOES BELOW ------->
+
+<!------====-- CONTENT GOES ABOVE ------->
+
+
+
+<!-----------------------[  Getting Started  ]--------------<recommended> section below------------------>
+## Getting Started
+
+<!-- 
+INSTRUCTIONS:
+  - Write instructions such that any new user can get the project up & running on their machine.
+  - This section has subsections described further down of "Prerequisites", "Installing", and "Deployment". 
+
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#getting-started
+-->
+
+<!---- [TODO]  CONTENT GOES BELOW ------->
+*Description of how to install and use the code or content goes here*
+<!------====-- CONTENT GOES ABOVE ------->
+
+
+<!-----------------------[ Prerequisites  ]-----------------<optional> section below--------------------->
 ### Prerequisites
-- Node.js 18 or higher
-- npm or yarn package manager
 
-### Installation
+<!--------------------------------------------------------
+INSTRUCTIONS:
+- Describe what things a new user needs to install in order to install and use the repository. 
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/SOFIA.git
-   cd SOFIA
-   ```
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#prerequisites
+---------------------------------------------------------->
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+<!---- [TODO]  CONTENT GOES BELOW ------->
+There are no prerequisites required to run this code or use this repository.
+<!------====-- CONTENT GOES ABOVE ------->
 
-3. **Start development server**
-   ```bash
-   npm start
-   ```
 
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
+<!-----------------------[  Installing  ]-------------------<optional> section below------------------>
+### Installing
 
-### 🚀 Deployment to GitHub Pages
+<!--
+INSTRUCTIONS:
+- A step by step series of examples that tell you how to get a development environment and your code running. 
+- Best practice is to include examples that can be copy and pasted directly from the README into a terminal.
 
-The project is configured for automatic deployment to GitHub Pages:
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#installing
 
-1. **Automatic Deployment** (Recommended)
-   - Push to the `main` branch
-   - GitHub Actions will automatically build and deploy
-   - Site will be available at `https://YOUR_USERNAME.github.io/SOFIA/`
+<!---- [TODO]  CONTENT GOES BELOW ------->
+This repository does not hold installable content.
+<!------====-- CONTENT GOES ABOVE ------->
 
-2. **Manual Deployment**
-   ```bash
-   npm run deploy
-   ```
 
-## 📁 Project Structure
+<!-----------------------[  Tests  ]------------------------<optional> section below--------------------->
+<!-- 
+## Tests
+ -->
+
+<!--
+INSTRUCTIONS:
+- Explain how to run the tests for this project. You may want to link here from Deployment (CI/CD) or Contributing sections.
+
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#tests
+-->
+
+<!---- [TODO]  CONTENT GOES BELOW ------->
+<!--
+
+*Explain what these tests test and why* 
 
 ```
-SOFIA/
-├── src/
-│   ├── App.tsx                           # Main application with sidebar navigation
-│   ├── MainSOFIADiagram.tsx             # Overview architecture diagram
-│   ├── IntelligentCodeGeneration.tsx    # Code generation module diagram
-│   ├── IntelligentOrchestrationValidation.tsx # Orchestration module diagram
-│   ├── SmartKnowledgeHub.tsx            # Knowledge hub module diagram
-│   └── index.css                        # TailwindCSS styles
-├── public/
-│   └── index.html                       # HTML template with SEO meta tags
-├── docs/
-│   ├── intelligent-code-generation-introduction.md
-│   ├── intelligent-orchestration-validation-introduction.md
-│   └── smart-knowledge-hub-introduction.md
-├── .github/workflows/
-│   └── deploy.yml                       # GitHub Actions deployment workflow
-└── package.json                        # Project configuration
-```
+Give an example
+``` 
 
-## 🎯 Key Capabilities
+-->
+<!------====-- CONTENT GOES ABOVE ------->
 
-### **Development Integration**
-- Native VSCode extension integration
-- GitHub Copilot Agent Mode support
-- Real-time code analysis and suggestions
 
-### **Autonomous Operations**
-- Zero-touch deployment workflows
-- Self-healing infrastructure management
-- Predictive monitoring and issue prevention
+<!-----------------------[  Deployment (CI/CD)  ]-----------<optional> section below--------------------->
+### Deployment (CI/CD)
 
-### **Intelligent Knowledge Management**
-- Semantic search across all organizational knowledge
-- AI-powered content analysis and summarization
-- Context-aware information retrieval
+<!-- 
+INSTRUCTIONS:
+- Describe how to deploy if applicable. Deployment includes website deployment, packages, or artifacts.
+- Avoid potential new contributor frustrations by making it easy to know about all compliance and continuous integration 
+    that will be run before pull request approval.
+- NOTE: Setting up an Azure DevOps pipeline gets you all 1ES compliance and build tooling such as component governance. 
+  - More info: https://aka.ms/StartRight/README-Template/integrate-ado
 
-### **Enterprise-Grade Architecture**
-- Scalable, distributed processing
-- Comprehensive security controls
-- High availability and fault tolerance
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#deployment-and-continuous-integration
+-->
 
-## 📊 Business Impact
+<!---- [TODO]  CONTENT GOES BELOW ------->
+_At this time, the repository does not use continuous integration or produce a website, artifact, or anything deployed._
+<!------====-- CONTENT GOES ABOVE ------->
 
-- **80% Reduction** in information search time
-- **60% Faster** problem resolution
-- **40% Reduction** in operational overhead
-- **99.5% Automation** of routine deployment tasks
 
-## 🔧 Configuration
+<!-----------------------[  Versioning and Changelog  ]-----<optional> section below--------------------->
 
-### GitHub Pages Setup
+<!-- ### Versioning and Changelog -->
 
-1. **Update package.json homepage**:
-   ```json
-   "homepage": "https://YOUR_USERNAME.github.io/SOFIA"
-   ```
+<!-- 
+INSTRUCTIONS:
+- If there is any information on a changelog, history, versioning style, roadmap or any related content tied to the 
+  history and/or future of your project, this is a section for it.
 
-2. **Configure repository settings**:
-   - Go to Settings → Pages
-   - Source: GitHub Actions
-   - The workflow will handle the rest
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#versioning-and-changelog
+-->
 
-### Environment Variables
+<!---- [TODO]  CONTENT GOES BELOW ------->
+<!-- We use [SemVer](https://aka.ms/StartRight/README-Template/semver) for versioning. -->
+<!------====-- CONTENT GOES ABOVE ------->
 
-No environment variables are required for basic functionality. All configuration is handled through the build process.
 
-## 🤝 Contributing
+-----------------------------------------------
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+<!-----------------------[  Access  ]-----------------------<recommended> section below------------------>
+## Access
 
-## 📝 Documentation
+<!-- 
+INSTRUCTIONS:
+- Please use this section to reduce the all-too-common friction & pain of getting read access and role-based permissions 
+  to repos inside Microsoft. Please cover (a) Gaining a role with read, write, other permissions. (b) sharing a link to 
+  this repository such that people who are not members of the organization can access it.
+- If the repository is set to internalVisibility, you may also want to refer to the "Sharing a Link to this Repository" sub-section 
+of the [README-Template instructions](https://aka.ms/StartRight/README-Template/Instructions#sharing-a-link-to-this-repository) so new GitHub EMU users know to get 1ES-Enterprise-Visibility MyAccess group access and therefore will have read rights to any repo set to internalVisibility.
 
-Comprehensive documentation is available in the `/docs` directory:
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#how-to-share-an-accessible-link-to-this-repository
+-->
 
-- [Intelligent Code Generation](./intelligent-code-generation-introduction.md)
-- [Intelligent Orchestration & Validation](./intelligent-orchestration-validation-introduction.md)
-- [Smart Knowledge Hub](./smart-knowledge-hub-introduction.md)
 
-## 🚀 Roadmap
+<!---- [TODO]  CONTENT GOES BELOW ------->
 
-### Near Term (6-12 months)
-- Multi-cloud orchestration support
-- Advanced analytics dashboard
-- Mobile applications
-- Voice interface integration
+<!------====-- CONTENT GOES ABOVE ------->
 
-### Long Term (12-24 months)
-- Autonomous capacity management
-- Predictive security capabilities
-- Cross-platform intelligence
-- Self-managing compliance systems
 
-## 📄 License
+<!-----------------------[  Contributing  ]-----------------<recommended> section below------------------>
+## Contributing
 
-This project is part of Microsoft's Sovereign Cloud initiative and follows internal licensing guidelines.
+<!--
+INSTRUCTIONS: 
+- Establish expectations and processes for existing & new developers to contribute to the repository.
+  - Describe whether first step should be email, teams message, issue, or direct to pull request.
+  - Express whether fork or branch preferred.
+- CONTRIBUTING content Location:
+  - You can tell users how to contribute in the README directly or link to a separate CONTRIBUTING.md file.
+  - The README sections "Contacts" and "Reuse Expectations" can be seen as subsections to CONTRIBUTING.
+  
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#contributing
+-->
 
-## 🆘 Support
+<!---- [TODO]  CONTENT GOES BELOW ------->
+_This repository prefers outside contributors start forks rather than branches. For pull requests more complicated 
+than typos, it is often best to submit an issue first._
 
-For questions, issues, or feature requests:
+If you are a new potential collaborator who finds reaching out or contributing to another project awkward, you may find 
+it useful to read these [tips & tricks](https://aka.ms/StartRight/README-Template/innerSource/2021_02_TipsAndTricksForCollaboration) 
+on InnerSource Communication.
+<!------====-- CONTENT GOES ABOVE ------->
 
-1. Check the [documentation](./docs/)
-2. Open an issue in this repository
-3. Contact the SOFIA platform team
 
----
+<!-----------------------[  Contacts  ]---------------------<recommended> section below------------------>
+<!-- 
+#### Contacts  
+-->
+<!--
+INSTRUCTIONS: 
+- To lower friction for new users and contributors, provide a preferred contact(s) and method (email, TEAMS, issue, etc.)
 
-**SOFIA Platform** - Transforming cloud infrastructure through intelligent automation.
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#contacts
+-->
 
-*Built with ❤️ by the Microsoft Sovereign Cloud team*
+<!---- [TODO]  CONTENT GOES BELOW ------->
+
+<!------====-- CONTENT GOES ABOVE ------->
+
+
+<!-----------------------[  Support & Reuse Expectations  ]-----<recommended> section below-------------->
+ 
+### Support & Reuse Expectations
+
+ 
+<!-- 
+INSTRUCTIONS:
+- To avoid misalignments use this section to set expectations in regards to current and future state of:
+  - The level of support the owning team provides new users/contributors and 
+  - The owning team's expectations in terms of incoming InnerSource requests and contributions.
+
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#support-and-reuse-expectations
+-->
+
+<!---- [TODO]  CONTENT GOES BELOW ------->
+
+_The creators of this repository **DO NOT EXPECT REUSE**._
+
+If you do use it, please let us know via an email or 
+leave a note in an issue, so we can best understand the value of this repository.
+<!------====-- CONTENT GOES ABOVE ------->
+
+
+<!-----------------------[  Limitations  ]----------------------<optional> section below----------------->
+
+<!-- 
+### Limitations 
+--> 
+
+<!-- 
+INSTRUCTIONS:
+- Use this section to make readers aware of any complications or limitations that they need to be made aware of.
+  - State:
+    - Export restrictions
+    - If telemetry is collected
+    - Dependencies with non-typical license requirements or limitations that need to not be missed. 
+    - trademark limitations
+ 
+How to Evaluate & Examples:
+  - https://aka.ms/StartRight/README-Template/Instructions#limitations
+-->
+
+<!---- [TODO]  CONTENT GOES BELOW ------->
+
+<!------====-- CONTENT GOES ABOVE ------->
+
+--------------------------------------------
+
+
+<!-----------------------[  Links to Platform Policies  ]-------<recommended> section below-------------->
+## How to Accomplish Common User Actions
+<!-- 
+INSTRUCTIONS: 
+- This section links to information useful to any user of this repository new to internal GitHub policies & workflows.
+-->
+
+ If you have trouble doing something related to this repository, please keep in mind that the following actions require 
+ using [GitHub inside Microsoft (GiM) tooling](https://aka.ms/gim/docs) and not the normal GitHub visible user interface!
+- [Switching between EMU GitHub and normal GitHub without logging out and back in constantly](https://aka.ms/StartRight/README-Template/maintainingMultipleAccount)
+- [Creating a repository](https://aka.ms/StartRight)
+- [Changing repository visibility](https://aka.ms/StartRight/README-Template/policies/jit) 
+- [Gaining repository permissions, access, and roles](https://aka.ms/StartRight/README-TEmplates/gim/policies/access)
+- [Enabling easy access to your low sensitivity and widely applicable repository by setting it to Internal Visibility and having any FTE who wants to see it join the 1ES Enterprise Visibility MyAccess Group](https://aka.ms/StartRight/README-Template/gim/innersource-access)
+- [Migrating repositories](https://aka.ms/StartRight/README-Template/troubleshoot/migration)
+- [Setting branch protection](https://aka.ms/StartRight/README-Template/gim/policies/branch-protection)
+- [Setting up GitHubActions](https://aka.ms/StartRight/README-Template/policies/actions)
+- [and other actions](https://aka.ms/StartRight/README-Template/gim/policies)
+
+This README started as a template provided as part of the 
+[StartRight](https://aka.ms/gim/docs/startright) tool that is used to create new repositories safely. Feedback on the
+[README template](https://aka.ms/StartRight/README-Template) used in this repository is requested as an issue. 
+
+<!-- version: 2023-04-07 [Do not delete this line, it is used for analytics that drive template improvements] -->
